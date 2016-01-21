@@ -32,8 +32,7 @@
 #V8 version in NODE 4.2.4
 > SSE3=1 SSE4_1=1 SAHF=1 AVX=1 FMA3=1 BMI1=1 BMI2=1 LZCNT=1 POPCNT=1 ATOM=0
 
-[SSE](SSE3=1 SSE4_1=1 SAHF=1 AVX=1 FMA3=1 BMI1=1 BMI2=1 LZCNT=1 POPCNT=1 ATOM=0
-)
+[SSE](https://en.wikipedia.org/wiki/Streaming_SIMD_Extensions)
 
 ##Usage:
 
